@@ -4,7 +4,7 @@ from datetime import datetime
 from time import sleep
 import json
 
-TOKEN = 'MTE3ODY2MDQyNzYwNjAxMTk4NA.Ge-O86.wZDmVi6ZkghqQRO6E8J8dNLl5ujYoWPH6JKr_w'
+TOKEN = ''
 
 QUARTER_TOTAL = "QuarterTotal"
 HALFTIME = "Halftime"

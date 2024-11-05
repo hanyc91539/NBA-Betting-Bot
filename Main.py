@@ -10,10 +10,10 @@ import requests
 from time import sleep
 import json
 
-USER = 'manadr'
-SECRET = '2b090e1f62fd593a1676acff0445d108'
-USERNAME = 'nathansiaw@gmail.com'
-PASSWORD = 'fr0zenrain'
+USER = ''
+SECRET = ''
+USERNAME = ''
+PASSWORD = ''
 
 TRIGGER = {
     "Rain": {"id" : 0, "odd" : "under"},
