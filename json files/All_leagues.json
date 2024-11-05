@@ -1,0 +1,369 @@
+[
+    {
+        "short_name": "NCAA",
+        "name": "National Collegiate Athletic Association",
+        "id": "9vjxm8xtl5q6odg",
+        "url": "https:stake.ac/sports/basketball/usa/ncaa-regular",
+        "time": 20,
+        "round": 2,
+        "QuarterTotal": {"status": false, "rain": 11, "rain better": 13, "drought": 50, "drought better": 70},
+        "Halftime":     {"status": true , "odds": 1.65, "history_count": 5, "score": 1},
+        "QuarterML":    {"status": false, "score": 4}
+    },
+
+    {
+        "short_name": "NBA",
+        "name": "National Basketball Association",
+        "id": "49vjxm8xt4q6odg",
+        "url": "https:stake.ac/sports/basketball/usa/nba",
+        "time": 12,
+        "round": 4,
+        "QuarterTotal": {"status": true ,
+                            "1": {"rain": 11, "rain better": 50, "drought": 72, "drought better": 300},
+                            "2": {"rain": 11, "rain better": 50, "drought": 67, "drought better": 300},
+                            "3": {"rain": 11, "rain better": 50, "drought": 74, "drought better": 300}
+                            },
+        "Halftime":     {"status": true , "odds": 1.65, "history_count": 5, "score": 1},
+        "QuarterML":    {"status": true , "score": 4}
+    },
+
+    {
+        "short_name": "CBA",
+        "name": "Chinese Basketball Association",
+        "id": "ngy0or5gteqwzv3",
+        "url": "https:stake.ac/sports/basketball/china/cba",
+        "time": 12,
+        "round": 4,
+        "QuarterTotal": {"status": true ,
+                            "1": {"rain": 11, "rain better": 50, "drought": 64, "drought better": 300},
+                            "2": {"rain": 11, "rain better": 50, "drought": 68, "drought better": 300},
+                            "3": {"rain": 11, "rain better": 50, "drought": 68, "drought better": 300},
+                            "4": {"rain": 11, "rain better": 50, "drought": 70, "drought better": 300}
+                            },
+        "Halftime":     {"status": true , "odds": 1.65, "history_count": 5, "score": 1},
+        "QuarterML":    {"status": false, "score": 4}
+    },
+
+    {
+    "short_name" : "EuroLeague",
+    "name": "EuroLeague",
+    "id": "jednm9ktd5ryox8",
+    "url": "https:stake.ac/sports/basketball/international/euroleague",
+    "time": 10,
+    "round": 4,
+    "QuarterTotal": {"status": true ,
+                        "1" : {"rain": 11, "rain better": 13, "drought": 50, "drought better": 70},
+                        "2" : {"rain": 11, "rain better": 13, "drought": 50, "drought better": 70},
+                        "3" : {"rain": 11, "rain better": 13, "drought": 50, "drought better": 70}
+                        },
+    "Halftime":     {"status": true , "odds": 1.65, "history_count": 5, "score": 1},
+    "QuarterML":    {"status": false, "score": 4}
+    },
+
+    {
+    "short_name" : "EuroCup",
+    "name": "EuroCup Basketball",
+    "id": "l965mk8tgwm1ge4",
+    "url": "https:stake.ac/sports/basketball/international/eurocup",
+    "time": 10,
+    "round": 4,
+    "QuarterTotal": {"status": true ,
+                        "1" : {"rain": 11, "rain better": 13, "drought": 50, "drought better": 70},
+                        "2" : {"rain": 11, "rain better": 13, "drought": 50, "drought better": 70},
+                        "3" : {"rain": 11, "rain better": 13, "drought": 50, "drought better": 70}
+                        },
+    "Halftime":     {"status": true , "odds": 1.65, "history_count": 5, "score": 1},
+    "QuarterML":    {"status": false, "score": 4}
+    },
+
+    {
+    "short_name" : "NBL",
+    "name": "National Basketball League",
+    "id": "xkn54ql7t8rvy9d",
+    "url": "https:stake.ac/sports/basketball/australia/nbl",
+    "time": 10,
+    "round": 4,
+    "QuarterTotal": {"status": true ,
+                        "1" : {"rain": 11, "rain better": 13, "drought": 50, "drought better": 70},
+                        "2" : {"rain": 11, "rain better": 13, "drought": 50, "drought better": 70},
+                        "3" : {"rain": 11, "rain better": 13, "drought": 50, "drought better": 70}
+                        },
+    "Halftime":     {"status": true , "odds": 1.65, "history_count": 5, "score": 1},
+    "QuarterML":    {"status": false, "score": 4}
+    },
+
+    {
+        "short_name" : "PBA",
+        "name": "Philippine Basketball Commissioner Cup",
+        "id": "yl5ergytk5r8k0o",
+        "url": "https:stake.ac/sports/basketball/philippines/pba-commissioner-cup",
+        "time": 12,
+        "round": 4,
+        "QuarterTotal": {"status": true ,
+                            "1" : {"rain": 11, "rain better": 13, "drought": 50, "drought better": 70},
+                            "2" : {"rain": 11, "rain better": 13, "drought": 50, "drought better": 70},
+                            "3" : {"rain": 11, "rain better": 13, "drought": 50, "drought better": 70}
+                            },
+        "Halftime":     {"status": true , "odds": 1.65, "history_count": 5, "score": 1},
+        "QuarterML":    {"status": false, "score": 4}
+    },
+
+    {
+    "short_name" : "BBL",
+    "name": "Basketball Bundesliga",
+    "id": "0l965mk8tom1ge4",
+    "url": "https:stake.ac/sports/basketball/germany/bbl",
+    "time": 10,
+    "round": 4,
+    "QuarterTotal": {"status": true ,
+                        "1" : {"rain": 11, "rain better": 13, "drought": 50, "drought better": 70},
+                        "2" : {"rain": 11, "rain better": 13, "drought": 50, "drought better": 70},
+                        "3" : {"rain": 11, "rain better": 13, "drought": 50, "drought better": 70}
+                        },
+    "Halftime":     {"status": true , "odds": 1.65, "history_count": 5, "score": 1},
+    "QuarterML":    {"status": false, "score": 4}
+    },
+
+    {
+        "short_name": "LNB",
+        "name": "Ligue Nationale de Basket Pro A",
+        "id": "7p4jwq25t6q0veo",
+        "url": "https:stake.ac/sports/basketball/france/pro-a",
+        "time": 10,
+        "round": 4,
+        "QuarterTotal": {"status": true ,
+                            "1": {"rain": 11, "rain better": 13, "drought": 50, "drought better": 70},
+                            "2": {"rain": 11, "rain better": 13, "drought": 50, "drought better": 70},
+                            "3": {"rain": 11, "rain better": 13, "drought": 50, "drought better": 70}
+                            },
+        "Halftime":     {"status": true , "odds": 1.65, "history_count": 5, "score": 1},
+        "QuarterML":    {"status": false, "score": 4}
+    },
+
+    {
+        "short_name": "LBA",
+        "name": "Lega Basket Serie A",
+        "id": "x4zp5rzkt1r82w1",
+        "url": "https:stake.ac/sports/basketball/italy/serie-a",
+        "time": 10,
+        "round": 4,
+        "QuarterTotal": {"status": true ,
+                            "1": {"rain": 11, "rain better": 13, "drought": 50, "drought better": 70},
+                            "2": {"rain": 11, "rain better": 13, "drought": 50, "drought better": 70},
+                            "3": {"rain": 11, "rain better": 13, "drought": 50, "drought better": 70}
+                            },
+        "Halftime":     {"status": true , "odds": 1.65, "history_count": 5, "score": 1},
+        "QuarterML":    {"status": false, "score": 4}
+    },
+
+    {
+        "short_name": "ACB",
+        "name": "Spain Liga ACB",
+        "id": "56ypq3ktldkmd7o",
+        "url": "https:stake.ac/sports/basketball/spain/liga-acb",
+        "time": 10,
+        "round": 4,
+        "QuarterTotal": {"status": true ,
+                            "1": {"rain": 11, "rain better": 13, "drought": 50, "drought better": 70},
+                            "2": {"rain": 11, "rain better": 13, "drought": 50, "drought better": 70},
+                            "3": {"rain": 11, "rain better": 13, "drought": 50, "drought better": 70}
+                            },
+        "Halftime":     {"status": true , "odds": 1.65, "history_count": 5, "score": 1},
+        "QuarterML":    {"status": false, "score": 4}
+    },
+
+    {
+    "short_name" : "LKL",
+    "name": "Lietuvos Krepsinio Lyga",
+    "id": "jednm9ktkxryox8",
+    "url": "https:stake.ac/sports/basketball/lithuania/lkl",
+    "time": 10,
+    "round": 4,
+    "QuarterTotal": {"status": true ,
+                        "1" : {"rain": 11, "rain better": 13, "drought": 50, "drought better": 70},
+                        "2" : {"rain": 11, "rain better": 13, "drought": 50, "drought better": 70},
+                        "3" : {"rain": 11, "rain better": 13, "drought": 50, "drought better": 70}
+                        },
+    "Halftime":     {"status": true , "odds": 1.65, "history_count": 5, "score": 1},
+    "QuarterML":    {"status": false, "score": 4}
+    },
+
+    {
+        "short_name": "KBL",
+        "name": "Korean Basketball League",
+        "id": "9d23xmv1t4mg8ny",
+        "url": "https:stake.ac/sports/basketball/republic-of-korea/kbl",
+        "time": 10,
+        "round": 4,
+        "QuarterTotal": {"status": false, "rain": 11, "rain better": 13, "drought": 50, "drought better": 70},
+        "Halftime":     {"status": true , "odds": 1.65, "history_count": 5, "score": 1},
+        "QuarterML":    {"status": false, "score": 4}
+    },
+
+    {
+        "short_name": "ISL",
+        "name": "Ligat HaAl",
+        "id": "d9k82re8twrepzj",
+        "url": "https:stake.ac/sports/basketball/israel/super-league",
+        "time": 10,
+        "round": 4,
+        "QuarterTotal": {"status": false, "rain": 11, "rain better": 13, "drought": 50, "drought better": 70},
+        "Halftime":     {"status": true , "odds": 1.65, "history_count": 5, "score": 1},
+        "QuarterML":    {"status": true, "score": 4}
+    },
+
+    {
+        "short_name": "PLK",
+        "name": "Polska Liga Koszykowk",
+        "id": "xe4wyrn1twq86pv",
+        "url": "https:stake.ac/sports/basketball/poland/plk",
+        "logo": "https:img.thesports.com/basketball/competition/b03b64721a48f184e975a0dce3654241.png",
+        "time": 10,
+        "round": 4,
+        "QuarterTotal": {"status": false, "rain": 11, "rain better": 13, "drought": 50, "drought better": 70},
+        "Halftime":     {"status": true , "odds": 1.65, "history_count": 5, "score": 1},
+        "QuarterML":    {"status": false, "score": 4}
+    },
+
+    {
+        "short_name" : "B.League",
+        "name": "B1 League",
+        "id": "gx7lm73tkor2wdk",
+        "url": "https:stake.ac/sports/basketball/japan/b-league",
+        "logo": "https:img.thesports.com/basketball/competition/9a7a56a8f76cf7d415b774616af1e4f0.png",
+        "time": 10,
+        "round": 4,
+        "QuarterTotal": {"status": false, "rain": 11, "rain better": 13, "drought": 50, "drought better": 70},
+        "Halftime":     {"status": true , "odds": 1.65, "history_count": 5, "score": 1},
+        "QuarterML":    {"status": false, "score": 4}
+    },
+
+    {
+        "short_name" : "LNBPB",
+        "name": "Ligue Nationale de Basket Pro B",
+        "id": "jednm9kt9xryox8",
+        "url": "https:stake.ac/sports/basketball/france/pro-b",
+        "logo": "https:img.thesports.com/basketball/competition/07a7d92679f150d59a4ddd3580d71f98.png",
+        "time": 10,
+        "round": 4,
+        "QuarterTotal": {"status": false, "rain": 11, "rain better": 13, "drought": 50, "drought better": 70},
+        "Halftime":     {"status": true , "odds": 1.65, "history_count": 5, "score": 1},
+        "QuarterML":    {"status": false, "score": 4}
+    },
+
+    {
+        "short_name" : "ISA2",
+        "name": "Serie B Basket",
+        "id": "9k82re8t9wrepzj",
+        "url": "https:stake.ac/sports/basketball/italy/serie-a2",
+        "logo": "https:img.thesports.com/basketball/competition/48e5a5a1ceee6e9eab326f778229e62e.png",
+        "time": 10,
+        "round": 4,
+        "QuarterTotal": {"status": false, "rain": 11, "rain better": 13, "drought": 50, "drought better": 70},
+        "Halftime":     {"status": true , "odds": 1.65, "history_count": 5, "score": 1},
+        "QuarterML":    {"status": false, "score": 4}
+    },
+
+    {
+        "short_name" : "ICE",
+        "name": "Iceland Basketball Premier League",
+        "id": "gx7lm73t0or2wdk",
+        "url": "https:stake.ac/sports/basketball/iceland/urvalsdeild",
+        "logo": "https:img.thesports.com/basketball/competition/03d0f83d29c5a1a457432baa9e5cb96e.png",
+        "time": 10,
+        "round": 4,
+        "QuarterTotal": {"status": false, "rain": 11, "rain better": 13, "drought": 50, "drought better": 70},
+        "Halftime":     {"status": true , "odds": 1.65, "history_count": 5, "score": 1},
+        "QuarterML":    {"status": false, "score": 4}
+    },
+
+    {
+        "short_name" : "LUB",
+        "name": "Liga Uruguaya",
+        "id": "8y39mp4t3opmojx",
+        "url": "https:stake.ac/sports/basketball/uruguay/lub",
+        "logo": "https:img.thesports.com/basketball/competition/eb11a763f622869f1876c0c903ec4d7f.png",
+        "time": 10,
+        "round": 4,
+        "QuarterTotal": {"status": false, "rain": 11, "rain better": 13, "drought": 50, "drought better": 70},
+        "Halftime":     {"status": true , "odds": 1.65, "history_count": 5, "score": 1},
+        "QuarterML":    {"status": false, "score": 4}
+    },
+
+    {
+        "short_name" : "ALNB",
+        "name": "Argentinian Liga Nacional de Bosquetbol",
+        "id": "kn54ql7tx8rvy9d",
+        "url": "https:stake.ac/sports/basketball/argentina/lnb",
+        "logo": "https:img.thesports.com/basketball/competition/16b5accca4ecc35e7e3d45a96094bede.png",
+        "time": 10,
+        "round": 4,
+        "QuarterTotal": {"status": false, "rain": 11, "rain better": 13, "drought": 50, "drought better": 70},
+        "Halftime":     {"status": true , "odds": 1.65, "history_count": 5, "score": 1},
+        "QuarterML":    {"status": false, "score": 4}
+    },
+
+    {
+        "short_name" : "DBL",
+        "name": "Danish Basketball League",
+        "id": "kdj2ry7tk6r1zpg",
+        "url": "https:stake.ac/sports/basketball/denmark/basketligaen",
+        "logo": "https:img.thesports.com/basketball/competition/533c6b6c2fc9e2fb51cb315dc279eaa8.png",
+        "time": 10,
+        "round": 4,
+        "QuarterTotal": {"status": false, "rain": 11, "rain better": 13, "drought": 50, "drought better": 70},
+        "Halftime":     {"status": true , "odds": 1.65, "history_count": 5, "score": 1},
+        "QuarterML":    {"status": false, "score": 4}
+    },
+
+    {
+        "short_name" : "LABA",
+        "name": "Adriatic Basketball Association League",
+        "id": "p4jwq25t0nq0veo",
+        "url": "https:stake.ac/sports/basketball/international/liga-aba",
+        "logo": "https:img.thesports.com/basketball/competition/c8aec9af38715be9511296ce641db800.png",
+        "time": 10,
+        "round": 4,
+        "QuarterTotal": {"status": false, "rain": 11, "rain better": 13, "drought": 50, "drought better": 70},
+        "Halftime":     {"status": true , "odds": 1.65, "history_count": 5, "score": 1},
+        "QuarterML":    {"status": false, "score": 4}
+    },
+
+    {
+        "short_name": "LEB",
+        "name": "Liga Española de Baloncesto Oro",
+        "id": "l965mk8t4om1ge4",
+        "url": "https:stake.ac/sports/basketball/spain/leb-oro",
+        "logo": "https:img.thesports.com/basketball/competition/18a2192531f46ea98548f2fe055ed359.png",
+        "time": 10,
+        "round": 4,
+        "QuarterTotal": {"status": false, "rain": 11, "rain better": 13, "drought": 50, "drought better": 70},
+        "Halftime":     {"status": true , "odds": 1.65, "history_count": 5, "score": 1},
+        "QuarterML":    {"status": false, "score": 4}
+    },
+
+    {
+        "short_name" : "LPB",
+        "name": "Liga Portuguesa de Basquetebol",
+        "id": "gy0or5gteeqwzv3",
+        "url": "https:stake.ac/sports/basketball/portugal/lpb",
+        "logo": "https:img.thesports.com/basketball/competition/50596ddbcb878083f62a704a9f0b4033.png",
+        "time": 10,
+        "round": 4,
+        "QuarterTotal": {"status": false, "rain": 11, "rain better": 13, "drought": 50, "drought better": 70},
+        "Halftime":     {"status": true , "odds": 1.65, "history_count": 5, "score": 1} ,
+        "QuarterML":    {"status": false, "score": 4}
+    },
+
+    {
+        "short_name": "TBSL",
+        "name": "Basketbol Super Ligi",
+        "id": "xz318q6ntxmo9jd",
+        "url": "https:stake.ac/sports/basketball/turkey/tbsl",
+        "time": 10,
+        "round": 4,
+        "QuarterTotal": {"status": false, "rain": 11, "rain better": 13, "drought": 50, "drought better": 70},
+        "Halftime":     {"status": true , "odds": 1.65, "history_count": 5, "score": 1},
+        "QuarterML":    {"status": false, "score": 4}
+    }
+]

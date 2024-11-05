@@ -1,0 +1,154 @@
+[
+    {
+        "short_name": "NCAA",
+        "name": "National Collegiate Athletic Association",
+        "id": "9vjxm8xtl5q6odg",
+        "url": "https:stake.ac/sports/basketball/usa/ncaa-regular",
+        "time": 20,
+        "round": 2,
+        "QuarterTotal": {"status": false, "rain": 11, "rain better": 13, "drought": 50, "drought better": 70},
+        "Halftime":     {"status": true , "odds": 1.65, "history_count": 5, "score": 1},
+        "QuarterML":    {"status": false, "score": 4}
+    },
+
+    {
+        "short_name": "NBA",
+        "name": "National Basketball Association",
+        "id": "49vjxm8xt4q6odg",
+        "url": "https:stake.ac/sports/basketball/usa/nba",
+        "time": 12,
+        "round": 4,
+        "QuarterTotal": {"status": true ,
+                            "1": {"rain": 11, "rain better": 50, "drought": 72, "drought better": 300},
+                            "2": {"rain": 11, "rain better": 50, "drought": 67, "drought better": 300},
+                            "3": {"rain": 11, "rain better": 50, "drought": 74, "drought better": 300}
+                            },
+        "Halftime":     {"status": true , "odds": 1.65, "history_count": 5, "score": 1},
+        "QuarterML":    {"status": true , "score": 4}
+    },
+
+    {
+        "short_name": "CBA",
+        "name": "Chinese Basketball Association",
+        "id": "ngy0or5gteqwzv3",
+        "url": "https:stake.ac/sports/basketball/china/cba",
+        "time": 12,
+        "round": 4,
+        "QuarterTotal": {"status": true ,
+                            "1": {"rain": 11, "rain better": 50, "drought": 64, "drought better": 300},
+                            "2": {"rain": 11, "rain better": 50, "drought": 68, "drought better": 300},
+                            "3": {"rain": 11, "rain better": 50, "drought": 68, "drought better": 300},
+                            "4": {"rain": 11, "rain better": 50, "drought": 70, "drought better": 300}
+                            },
+        "Halftime":     {"status": true , "odds": 1.65, "history_count": 5, "score": 1},
+        "QuarterML":    {"status": true, "score": 4}
+    },
+
+    {
+    "short_name" : "EuroLeague",
+    "name": "EuroLeague",
+    "id": "jednm9ktd5ryox8",
+    "url": "https:stake.ac/sports/basketball/international/euroleague",
+    "time": 10,
+    "round": 4,
+    "QuarterTotal": {"status": true ,
+                        "1" : {"rain": 11, "rain better": 13, "drought": 50, "drought better": 70},
+                        "2" : {"rain": 11, "rain better": 13, "drought": 50, "drought better": 70},
+                        "3" : {"rain": 11, "rain better": 13, "drought": 50, "drought better": 70}
+                        },
+    "Halftime":     {"status": true , "odds": 1.65, "history_count": 5, "score": 1},
+    "QuarterML":    {"status": true, "score": 4}
+    },
+
+    {
+        "short_name" : "EuroCup",
+        "name": "EuroCup Basketball",
+        "id": "l965mk8tgwm1ge4",
+        "url": "https:stake.ac/sports/basketball/international/eurocup",
+        "time": 10,
+        "round": 4,
+        "QuarterTotal": {"status": true ,
+                            "1" : {"rain": 11, "rain better": 13, "drought": 50, "drought better": 70},
+                            "2" : {"rain": 11, "rain better": 13, "drought": 50, "drought better": 70},
+                            "3" : {"rain": 11, "rain better": 13, "drought": 50, "drought better": 70}
+                            },
+        "Halftime":     {"status": true , "odds": 1.65, "history_count": 5, "score": 1},
+        "QuarterML":    {"status": true, "score": 4}
+    },
+    {
+        "short_name" : "PBA",
+        "name": "Philippine Basketball Commissioner Cup",
+        "id": "yl5ergytk5r8k0o",
+        "url": "https:stake.ac/sports/basketball/philippines/pba-commissioner-cup",
+        "time": 12,
+        "round": 4,
+        "QuarterTotal": {"status": true ,
+                            "1" : {"rain": 11, "rain better": 13, "drought": 50, "drought better": 70},
+                            "2" : {"rain": 11, "rain better": 13, "drought": 50, "drought better": 70},
+                            "3" : {"rain": 11, "rain better": 13, "drought": 50, "drought better": 70}
+                            },
+        "Halftime":     {"status": true , "odds": 1.65, "history_count": 5, "score": 1},
+        "QuarterML":    {"status": true, "score": 4}
+    },
+    {
+        "short_name": "LNB",
+        "name": "Ligue Nationale de Basket Pro A",
+        "id": "7p4jwq25t6q0veo",
+        "url": "https:stake.ac/sports/basketball/france/pro-a",
+        "time": 10,
+        "round": 4,
+        "QuarterTotal": {"status": true ,
+                            "1": {"rain": 11, "rain better": 13, "drought": 50, "drought better": 70},
+                            "2": {"rain": 11, "rain better": 13, "drought": 50, "drought better": 70},
+                            "3": {"rain": 11, "rain better": 13, "drought": 50, "drought better": 70}
+                            },
+        "Halftime":     {"status": true , "odds": 1.65, "history_count": 5, "score": 1},
+        "QuarterML":    {"status": true, "score": 4}
+    },
+    {
+        "short_name" : "Ligue_Nationale_de_Basket_Pro_B",
+        "name": "Ligue Nationale de Basket Pro B",
+        "id": "jednm9kt9xryox8",
+        "url": "https:stake.ac/sports/basketball/france/pro-b",
+        "logo": "https:img.thesports.com/basketball/competition/07a7d92679f150d59a4ddd3580d71f98.png",
+        "time": 10,
+        "round": 4,
+        "QuarterTotal": {"status": false, "rain": 11, "rain better": 13, "drought": 50, "drought better": 70},
+        "Halftime":     {"status": true , "odds": 1.65, "history_count": 5, "score": 1},
+        "QuarterML":    {"status": false, "score": 4}
+    },
+    {
+        "short_name": "ISL",
+        "name": "Ligat HaAl",
+        "id": "d9k82re8twrepzj",
+        "url": "https:stake.ac/sports/basketball/israel/super-league",
+        "time": 10,
+        "round": 4,
+        "QuarterTotal": {"status": false, "rain": 11, "rain better": 13, "drought": 50, "drought better": 70},
+        "Halftime":     {"status": true , "odds": 1.65, "history_count": 5, "score": 1},
+        "QuarterML":    {"status": true, "score": 4}
+    },
+    {
+        "short_name" : "B.League",
+        "name": "B1 League",
+        "id": "gx7lm73tkor2wdk",
+        "url": "https:stake.ac/sports/basketball/japan/b-league",
+        "logo": "https:img.thesports.com/basketball/competition/9a7a56a8f76cf7d415b774616af1e4f0.png",
+        "time": 10,
+        "round": 4,
+        "QuarterTotal": {"status": false, "rain": 11, "rain better": 13, "drought": 50, "drought better": 70},
+        "Halftime":     {"status": true , "odds": 1.65, "history_count": 5, "score": 1},
+        "QuarterML":    {"status": false, "score": 4}
+    },
+    {
+        "short_name": "KBL",
+        "name": "Korean Basketball League",
+        "id": "9d23xmv1t4mg8ny",
+        "url": "https:stake.ac/sports/basketball/republic-of-korea/kbl",
+        "time": 10,
+        "round": 4,
+        "QuarterTotal": {"status": false, "rain": 11, "rain better": 13, "drought": 50, "drought better": 70},
+        "Halftime":     {"status": true , "odds": 1.65, "history_count": 5, "score": 1},
+        "QuarterML":    {"status": true, "score": 4}
+    }    
+]
