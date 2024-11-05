@@ -4,7 +4,7 @@ from datetime import datetime
 from time import sleep
 import json
 
-TOKEN = ''
+# TOKEN = ''
 
 QUARTER_TOTAL = "QuarterTotal"
 HALFTIME = "Halftime"
@@ -355,4 +355,4 @@ if __name__ == "__main__":
             data["id"] = ""
         with open("json files/winrates_league.json", 'w') as file:
             json.dump(winrates_league, file)
-    bot.run(TOKEN)
+    bot.run("token")
