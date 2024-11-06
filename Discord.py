@@ -6,10 +6,10 @@ import json
 
 TOKEN = ''
 
-# QUARTER_TOTAL = "QuarterTotal"
-# HALFTIME = "Halftime"
-# QUARTER_ML = "QuarterML"
-# WINRATE = "Winrate"
+QUARTER_TOTAL = "QuarterTotal"
+HALFTIME = "Halftime"
+QUARTER_ML = "QuarterML"
+WINRATE = "Winrate"
 
 CHANNEL_ID = {
     QUARTER_TOTAL : 0,
