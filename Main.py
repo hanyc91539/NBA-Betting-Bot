@@ -52,6 +52,8 @@ options.add_experimental_option("debuggerAddress", "127.0.0.1:9015")
 options.add_argument("user-agent=Chrome/120.0.6099.200")
 driver = webdriver.Chrome(service=service, options=options)
 
+def notify() -> bool: {}
+
 def scrap_odds(url, filter_name, market_title):
     global is_scrapping_now
     is_scrapping_now = True
