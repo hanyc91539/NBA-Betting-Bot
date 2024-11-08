@@ -53,6 +53,7 @@ options.add_argument("user-agent=Chrome/120.0.6099.200")
 driver = webdriver.Chrome(service=service, options=options)
 
 def notify() -> bool: {}
+def pool() -> bool: {}
 
 def scrap_odds(url, filter_name, market_title):
     global is_scrapping_now
